@@ -1,6 +1,7 @@
-Dört Kutucuk
+DÃ¶rt Kutucuk
 
-12x12'lik tahtada bilgisayara karşı 2x2'lik aynı renklerden meydana gelen kareleri oluşturmayı amaçlayan oyun.
+12x12'lik tahtada bilgisayara karÅŸÄ± 2x2'lik aynÄ± renklerden meydana gelen kareleri oluÅŸturmayÄ± amaÃ§layan oyun.
+
 Kaynak : http://www.kraloyun.com/Oyun/4_Kutucuk
 
-Yapay zeka algoritmalarından olan Minimax algoritması kullanılarak yazılmıştır.
+Yapay zeka algoritmalarÄ±ndan olan Minimax algoritmasÄ± kullanÄ±larak yazÄ±lmÄ±ÅŸtÄ±r.
